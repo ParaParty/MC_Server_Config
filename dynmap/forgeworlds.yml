@@ -1,0 +1,58 @@
+worlds:
+-   sealevel: 63
+    nether: false
+    name: world
+    the_end: false
+    title: world/overworld
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-11
+    the_end: false
+    title: DIM2/Storage Cell
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM1
+    the_end: true
+    title: DIM1/the_end
+    height: 256
+-   sealevel: 63
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: DIM-1/the_nether
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-30
+    the_end: false
+    title: world/Asteroids
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-29
+    the_end: false
+    title: world/Mars
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-31
+    the_end: false
+    title: world/Venus
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-28
+    the_end: false
+    title: world/Moon
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-27
+    the_end: false
+    title: world/Space Station
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256

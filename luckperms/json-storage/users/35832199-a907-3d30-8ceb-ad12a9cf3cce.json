@@ -1,0 +1,10 @@
+{
+  "uuid": "35832199-a907-3d30-8ceb-ad12a9cf3cce",
+  "name": "Peter_Cheng",
+  "primaryGroup": "default",
+  "parents": [
+    {
+      "group": "admin"
+    }
+  ]
+}

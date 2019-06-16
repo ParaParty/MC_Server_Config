@@ -1,0 +1,8 @@
+autoPurge=true
+incognito=false
+messages {
+    "cleanup_done"="&5[&d警告&5] &b{count}个掉落物已被清理。"
+    "cleanup_soon"="&5[&d警告&5] &c30秒后清理地上的掉落物。"
+}
+purgeInterval=900
+purgeWarning=30

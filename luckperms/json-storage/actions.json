@@ -1,0 +1,750 @@
+[
+  {
+    "timestamp": 1531362039,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.back.targets.death true"
+  },
+  {
+    "timestamp": 1531362039,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.back.targets.portal true"
+  },
+  {
+    "timestamp": 1531362039,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.back.targets.teleport true"
+  },
+  {
+    "timestamp": 1531362039,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.chat.color true"
+  },
+  {
+    "timestamp": 1531362039,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.chat.colour true"
+  },
+  {
+    "timestamp": 1531362039,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.chat.style true"
+  },
+  {
+    "timestamp": 1531362039,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.chat.url true"
+  },
+  {
+    "timestamp": 1531362039,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.me.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.time.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.home.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.home.limit.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.home.list.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.home.set.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.ignore.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.ignorelist.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.info.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.motd.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.motd.login true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.trash.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.kit.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.kit.list.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.mail.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.mail.send.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.helpop.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.message.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.suicide.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.realname.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.getpos.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.list.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.rules.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.itembuy.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.itemsell.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.itemsellall.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.worth.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.firstspawn.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.spawn.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.teleport.tpa.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.teleport.tpaccept.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.teleport.tpdeny.base true"
+  },
+  {
+    "timestamp": 1531362040,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.teleport.tptoggle.base true"
+  },
+  {
+    "timestamp": 1531362041,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.warp.base true"
+  },
+  {
+    "timestamp": 1531362041,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.warp.list.base true"
+  },
+  {
+    "timestamp": 1531362491,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "owners",
+    "action": "create"
+  },
+  {
+    "timestamp": 1531362507,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "owners",
+    "action": "delete"
+  },
+  {
+    "timestamp": 1531362670,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set totaleconomy.command.balance true"
+  },
+  {
+    "timestamp": 1531362670,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set totaleconomy.command.balancetop true"
+  },
+  {
+    "timestamp": 1531362670,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set totaleconomy.command.pay true"
+  },
+  {
+    "timestamp": 1531376191,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set flexiblelogin.command.login true"
+  },
+  {
+    "timestamp": 1531376191,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set flexiblelogin.command.logout true"
+  },
+  {
+    "timestamp": 1531376191,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set flexiblelogin.command.changepw true"
+  },
+  {
+    "timestamp": 1531376191,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set flexiblelogin.command.register true"
+  },
+  {
+    "timestamp": 1531388622,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "admin",
+    "action": "create"
+  },
+  {
+    "timestamp": 1531388682,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "admin",
+    "action": "permission set * true"
+  },
+  {
+    "timestamp": 1531388733,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Wier_WR",
+    "action": "parent add admin",
+    "acted": "18d3b9c0-6988-33ea-9e26-e0c7424ff264"
+  },
+  {
+    "timestamp": 1531388749,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Eric_Lian",
+    "action": "parent add admin",
+    "acted": "54134b7c-9095-3cb5-b900-60038d00c6db"
+  },
+  {
+    "timestamp": 1531397580,
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.hat.base true"
+  },
+  {
+    "timestamp": 1531401578,
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.back.exempt.cooldown true"
+  },
+  {
+    "timestamp": 1531401586,
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.back.exempt.cost true"
+  },
+  {
+    "timestamp": 1531401590,
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.back.exempt.warmup true"
+  },
+  {
+    "timestamp": 1531402052,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Wier_WR",
+    "action": "parent remove admin",
+    "acted": "18d3b9c0-6988-33ea-9e26-e0c7424ff264"
+  },
+  {
+    "timestamp": 1531402092,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Eric_Lian",
+    "action": "parent remove admin",
+    "acted": "54134b7c-9095-3cb5-b900-60038d00c6db"
+  },
+  {
+    "timestamp": 1531453879,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.home.set.unlimited true"
+  },
+  {
+    "timestamp": 1531453885,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.home.set.unlimitelist true"
+  },
+  {
+    "timestamp": 1531454105,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.back.base true"
+  },
+  {
+    "timestamp": 1531454628,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.afk.base true"
+  },
+  {
+    "timestamp": 1531476442,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.teleport.tpahere.base true"
+  },
+  {
+    "timestamp": 1531541885,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set dynmap.webregister true"
+  },
+  {
+    "timestamp": 1531572837,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.nick.base true"
+  },
+  {
+    "timestamp": 1531572900,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.nick.color true"
+  },
+  {
+    "timestamp": 1531572924,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "G",
+    "actedName": "default",
+    "action": "permission set nucleus.nick.style true"
+  },
+  {
+    "timestamp": 1531883522,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Peter_Cheng",
+    "action": "parent add admin",
+    "acted": "35832199-a907-3d30-8ceb-ad12a9cf3cce"
+  },
+  {
+    "timestamp": 1531887643,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Wier_WR",
+    "action": "parent set admin",
+    "acted": "18d3b9c0-6988-33ea-9e26-e0c7424ff264"
+  },
+  {
+    "timestamp": 1531911066,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Wier_WR",
+    "action": "parent add default",
+    "acted": "18d3b9c0-6988-33ea-9e26-e0c7424ff264"
+  },
+  {
+    "timestamp": 1531911175,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Peter_Cheng",
+    "action": "parent remove admin",
+    "acted": "35832199-a907-3d30-8ceb-ad12a9cf3cce"
+  },
+  {
+    "timestamp": 1531911224,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Wier_WR",
+    "action": "parent remove admin",
+    "acted": "18d3b9c0-6988-33ea-9e26-e0c7424ff264"
+  },
+  {
+    "timestamp": 1531989688,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Wier_WR",
+    "action": "parent set admin",
+    "acted": "18d3b9c0-6988-33ea-9e26-e0c7424ff264"
+  },
+  {
+    "timestamp": 1532007168,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Peter_Cheng",
+    "action": "parent add admin",
+    "acted": "35832199-a907-3d30-8ceb-ad12a9cf3cce"
+  },
+  {
+    "timestamp": 1532500147,
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "U",
+    "actedName": "Eric_Lian",
+    "action": "parent set admin",
+    "acted": "54134b7c-9095-3cb5-b900-60038d00c6db"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set kse.user.9 true"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset kse.user.9"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set kse.user.* true"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset kse.user.*"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set kse.user true"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set craftbook.chairs.use true"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set craftbook.elevator true"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set craftbook.elevator.use true"
+  },
+  {
+    "actor": "54134b7c-9095-3cb5-b900-60038d00c6db",
+    "actorName": "Eric_Lian",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set universeguard.region true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set nucleus.vanish.onlogin true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission unset nucleus.vanish.onlogin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set -nucleus.vanish.onlogin true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission unset -nucleus.vanish.onlogin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set flexiblelogin.no_auto_login false"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset flexiblelogin.no_auto_login"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset universeguard.region"
+  }
+]

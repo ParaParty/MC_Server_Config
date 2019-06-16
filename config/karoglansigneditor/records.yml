@@ -1,0 +1,4300 @@
+# &c[&4&lWarn&r&c]Do not modify this file unless neccessary.
+KaroglanSignEditor {
+    # Player's clipboard will be saved under this node and you could set it unavailable in configuration file.
+    Clipboard=null
+    # Operation records which can realize the function of "undo" and "redo" will be saved under this node.
+    "Operation_Log" {
+        "Location{(-207.0, 85.0, 160.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"="&b输入命令"
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"="&b/warp plain"
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"="&b输入命令"
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"="&b输入命令"
+                "Line[1]"="&b/warp plain"
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"="&b输入命令"
+                "Line[1]"="&b/warp plain"
+                "Line[2]"="&b开始您的生存之旅"
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=5
+            owner="Eric_Lian"
+            tail=5
+        }
+        "Location{(-207.0, 85.0, 161.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Eric_Lian"
+            tail=1
+        }
+        "Location{(-208.0, 144.0, 160.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=您当前位于主城
+                "Line[1]"="使用/warp plain前往生存区"
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=您当前位于主城
+                "Line[1]"="使用/warp plain前往生存区"
+                "Line[2]"="使用/warp plain前往生存区"
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=您当前位于主城
+                "Line[1]"=您当前位于主城
+                "Line[2]"="使用/warp plain前往生存区"
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"="——————————"
+                "Line[1]"=您当前位于主城
+                "Line[2]"="使用/warp plain前往生存区"
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"="——————————"
+                "Line[1]"=您当前位于主城
+                "Line[2]"="使用/warp plain前往生存区"
+                "Line[3]"="——————————"
+            }
+            "Stack[5]" {
+                "Line[0]"="&e————————————"
+                "Line[1]"=您当前位于主城
+                "Line[2]"="使用/warp plain前往生存区"
+                "Line[3]"="——————————"
+            }
+            "Stack[6]" {
+                "Line[0]"="&e————————————"
+                "Line[1]"=您当前位于主城
+                "Line[2]"="使用/warp plain前往生存区"
+                "Line[3]"="&e————————————"
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=6
+            owner="Wier_WR"
+            tail=6
+        }
+        "Location{(-211.0, 142.0, 159.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Wier_WR"
+            tail=1
+        }
+        "Location{(-211.0, 142.0, 161.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Wier_WR"
+            tail=1
+        }
+        "Location{(-212.0, 141.0, 160.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Wier_WR"
+            tail=1
+        }
+        "Location{(-248.0, 104.0, 160.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Wier_WR"
+            tail=1
+        }
+        "Location{(-285.0, 68.0, 167.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Eric_Lian"
+            tail=1
+        }
+        "Location{(-286.0, 67.0, 159.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"="主城本体→"
+                "Line[1]"=工事中
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"="主城本体→"
+                "Line[1]"=你看那又大又园
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=1
+            owner="Wier_WR"
+            tail=1
+        }
+        "Location{(-287.0, 67.0, 159.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"="主城（暂定）"
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"="主城（已定）"
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"="主城（已定）"
+                "Line[1]"=月之宫
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=2
+            owner="Wier_WR"
+            tail=2
+        }
+        "Location{(-287.0, 68.0, 159.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=月球被神必力量保护
+                "Line[1]"=进入会卡住
+                "Line[2]"=谨慎登月
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=月球被神必力量保护
+                "Line[1]"=进入会卡住
+                "Line[2]"=谨慎登月
+                "Line[3]"="&6如果真出事了请找管理员解决"
+            }
+            "Stack[2]" {
+                "Line[0]"=月球被神必力量保护
+                "Line[1]"=进入会卡住
+                "Line[2]"=谨慎登月
+                "Line[3]"="&5如果真出事了请找管理员解决"
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=2
+            owner="Wier_WR"
+            tail=2
+        }
+        "Location{(-288.0, 68.0, 167.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Eric_Lian"
+            tail=1
+        }
+        "Location{(-291.0, 68.0, 167.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Peter_Cheng"
+            tail=1
+        }
+        "Location{(-357.0, 69.0, 383.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Broxiet
+            tail=1
+        }
+        "Location{(-379.0, 56.0, 445.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-380.0, 66.0, 447.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Peter_Cheng"
+            tail=1
+        }
+        "Location{(-381.0, 56.0, 442.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-381.0, 56.0, 445.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-381.0, 57.0, 442.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=Stone
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=Stone
+                "Line[2]"="ASUS - 奸如磐石"
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=1
+            owner=Link
+            tail=1
+        }
+        "Location{(-381.0, 57.0, 445.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=Block
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=Block
+                "Line[2]"=方了
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=1
+            owner=Link
+            tail=1
+        }
+        "Location{(-382.0, 54.0, 457.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"="Ni-Fe Ag-Au"
+                "Line[1]"="Ni-Cu Al-CU"
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"="Ni-Fe Ag-Au"
+                "Line[1]"="Ni-Cu Al-CU"
+                "Line[2]"=Sn-Cu
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"="Ni-Fe Ag-Au"
+                "Line[1]"="Ni-Cu Al-CU"
+                "Line[2]"="Sn-Cu Fe-Ni"
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"="Ni-Fe Ag-Au"
+                "Line[1]"="Ni-Cu Al-CU"
+                "Line[2]"="Sn-Cu Fe-Ni"
+                "Line[3]"=Al-Fe-Obsidian
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=3
+            owner=Link
+            tail=3
+        }
+        "Location{(-383.0, 56.0, 442.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-383.0, 56.0, 444.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-385.0, 56.0, 442.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-385.0, 56.0, 444.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-392.0, 97.0, 209.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="_Right_"
+            tail=1
+        }
+        "Location{(-394.0, 97.0, 209.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="_Right_"
+            tail=1
+        }
+        "Location{(-397.0, 97.0, 209.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="_Right_"
+            tail=1
+        }
+        "Location{(-400.0, 97.0, 197.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Peter_Cheng"
+            tail=1
+        }
+        "Location{(-400.0, 98.0, 208.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Peter_Cheng"
+            tail=1
+        }
+        "Location{(-412.0, 94.0, 192.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Peter_Cheng"
+            tail=1
+        }
+        "Location{(-415.0, 86.0, 364.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Broxiet
+            tail=1
+        }
+        "Location{(-415.0, 96.0, 197.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Peter_Cheng"
+            tail=1
+        }
+        "Location{(-571.0, 69.0, 240.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Cruciata
+            tail=1
+        }
+        "Location{(-590.0, 66.0, 462.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Wier_WR"
+            tail=1
+        }
+        "Location{(-606.0, 69.0, 490.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-607.0, 68.0, 488.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-612.0, 142.0, -529.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Wier_WR"
+            tail=1
+        }
+        "Location{(-612.0, 143.0, -529.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Wier_WR"
+            tail=1
+        }
+        "Location{(-635.0, 67.0, 222.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="Peter_Cheng"
+            tail=1
+        }
+        "Location{(-644.0, 85.0, 453.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-645.0, 85.0, 453.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Link
+            tail=1
+        }
+        "Location{(-656.0, 68.0, 74.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=misakayuuki
+            tail=1
+        }
+        "Location{(-657.0, 67.0, 78.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=misakayuuki
+            tail=1
+        }
+        "Location{(-657.0, 68.0, 76.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=misakayuuki
+            tail=1
+        }
+        "Location{(-657.0, 70.0, 71.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=misakayuuki
+            tail=1
+        }
+        "Location{(-658.0, 68.0, 74.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=misakayuuki
+            tail=1
+        }
+        "Location{(-698.0, 64.0, 119.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=ALINGCAT
+            tail=1
+        }
+        "Location{(-700.0, 66.0, 120.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=ALINGCAT
+            tail=1
+        }
+        "Location{(152.0, 63.0, -405.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=UZ
+            tail=1
+        }
+        "Location{(156.0, 66.0, -410.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=UZ
+            tail=1
+        }
+        "Location{(175.0, 70.0, -409.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=UZ
+            tail=1
+        }
+        "Location{(175.0, 70.0, -414.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=UZ
+            tail=1
+        }
+        "Location{(32.0, 65.0, -408.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=cwr1
+            tail=1
+        }
+        "Location{(43.0, 61.0, -64.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=ALINGCAT
+            tail=1
+        }
+        "Location{(43.0, 62.0, -64.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=ALINGCAT
+            tail=1
+        }
+        "Location{(653.0, 68.0, -679.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="_Right_"
+            tail=1
+        }
+        "Location{(653.0, 69.0, -679.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="_Right_"
+            tail=1
+        }
+        "Location{(653.0, 70.0, -679.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner="_Right_"
+            tail=1
+        }
+        "Location{(690.0, 63.0, 737.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Hyt
+            tail=1
+        }
+        "Location{(692.0, 57.0, 734.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Hyt
+            tail=1
+        }
+        "Location{(693.0, 57.0, 746.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Hyt
+            tail=1
+        }
+        "Location{(693.0, 62.0, 733.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=Hyt
+            tail=1
+        }
+        "Location{(702.0, 65.0, 733.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=cwr1
+            tail=1
+        }
+        "Location{(702.0, 65.0, 734.0) in WorldServer{Name=world, DimensionId=0, DimensionType=minecraft:overworld, DimensionTypeId=0}}" {
+            "Stack[0]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[1]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[2]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[3]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[4]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[5]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[6]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[7]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[8]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            "Stack[9]" {
+                "Line[0]"=""
+                "Line[1]"=""
+                "Line[2]"=""
+                "Line[3]"=""
+            }
+            head=0
+            now=0
+            owner=cwr1
+            tail=1
+        }
+    }
+    # this section is using to save player's whitelist.
+    WhiteList=null
+}

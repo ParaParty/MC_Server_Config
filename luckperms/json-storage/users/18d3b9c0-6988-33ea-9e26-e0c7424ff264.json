@@ -1,0 +1,10 @@
+{
+  "uuid": "18d3b9c0-6988-33ea-9e26-e0c7424ff264",
+  "name": "Wier_WR",
+  "primaryGroup": "admin",
+  "parents": [
+    {
+      "group": "admin"
+    }
+  ]
+}

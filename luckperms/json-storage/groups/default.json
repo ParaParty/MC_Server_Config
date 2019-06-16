@@ -1,0 +1,269 @@
+{
+  "name": "default",
+  "permissions": [
+    {
+      "permission": "craftbook.chairs.use",
+      "value": true
+    },
+    {
+      "permission": "craftbook.elevator",
+      "value": true
+    },
+    {
+      "permission": "craftbook.elevator.use",
+      "value": true
+    },
+    {
+      "permission": "dynmap.webregister",
+      "value": true
+    },
+    {
+      "permission": "flexiblelogin.command.changepw",
+      "value": true
+    },
+    {
+      "permission": "flexiblelogin.command.login",
+      "value": true
+    },
+    {
+      "permission": "flexiblelogin.command.logout",
+      "value": true
+    },
+    {
+      "permission": "flexiblelogin.command.register",
+      "value": true
+    },
+    {
+      "permission": "kse.user",
+      "value": true
+    },
+    {
+      "permission": "nucleus.afk.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.back.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.back.exempt.cooldown",
+      "value": true
+    },
+    {
+      "permission": "nucleus.back.exempt.cost",
+      "value": true
+    },
+    {
+      "permission": "nucleus.back.exempt.warmup",
+      "value": true
+    },
+    {
+      "permission": "nucleus.back.targets.death",
+      "value": true
+    },
+    {
+      "permission": "nucleus.back.targets.portal",
+      "value": true
+    },
+    {
+      "permission": "nucleus.back.targets.teleport",
+      "value": true
+    },
+    {
+      "permission": "nucleus.chat.color",
+      "value": true
+    },
+    {
+      "permission": "nucleus.chat.colour",
+      "value": true
+    },
+    {
+      "permission": "nucleus.chat.style",
+      "value": true
+    },
+    {
+      "permission": "nucleus.chat.url",
+      "value": true
+    },
+    {
+      "permission": "nucleus.firstspawn.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.getpos.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.hat.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.helpop.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.home.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.home.limit.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.home.list.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.home.set.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.home.set.unlimited",
+      "value": true
+    },
+    {
+      "permission": "nucleus.home.set.unlimitelist",
+      "value": true
+    },
+    {
+      "permission": "nucleus.ignore.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.ignorelist.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.info.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.itembuy.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.itemsell.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.itemsellall.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.kit.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.kit.list.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.list.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.mail.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.mail.send.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.me.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.message.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.motd.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.motd.login",
+      "value": true
+    },
+    {
+      "permission": "nucleus.nick.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.nick.color",
+      "value": true
+    },
+    {
+      "permission": "nucleus.nick.style",
+      "value": true
+    },
+    {
+      "permission": "nucleus.realname.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.rules.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.spawn.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.suicide.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.teleport.tpa.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.teleport.tpaccept.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.teleport.tpahere.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.teleport.tpdeny.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.teleport.tptoggle.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.time.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.trash.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.warp.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.warp.list.base",
+      "value": true
+    },
+    {
+      "permission": "nucleus.worth.base",
+      "value": true
+    },
+    {
+      "permission": "totaleconomy.command.balance",
+      "value": true
+    },
+    {
+      "permission": "totaleconomy.command.balancetop",
+      "value": true
+    },
+    {
+      "permission": "totaleconomy.command.pay",
+      "value": true
+    }
+  ]
+}
